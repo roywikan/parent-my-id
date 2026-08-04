@@ -1,9 +1,0 @@
-backend:
-  name: github
-  repo: roywikan/parent-my-id
-  branch: main
-  base_url: https://decap-oauth.apl.workers.dev/callback # URL Cloudflare Worker Anda
-  auth_endpoint: auth
-# URL situs Anda
-site_url: https://parent.my.id
-display_url: https://parent.my.id
