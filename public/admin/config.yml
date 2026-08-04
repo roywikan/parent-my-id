@@ -1,9 +1,30 @@
+# URL situs Anda
+site_url: https://parent.my.id
+display_url: https://parent.my.id
+
+
+
 backend:
   name: github
   repo: roywikan/parent-my-id
   branch: main
-  base_url: https://decap-oauth.apl.workers.dev/callback # URL Cloudflare Worker Anda
-  auth_endpoint: auth
-# URL situs Anda
-site_url: https://parent.my.id
-display_url: https://parent.my.id
+  base_url: https://decap-oauth.apl.workers.dev # URL Cloudflare Worker OAuth Anda
+  auth_endpoint: /auth
+
+# Lokasi penyimpanan gambar/media di repository GitHub
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+# Struktur Koleksi Konten (Blog / Berita)
+collections:
+  - name: "blog"
+    label: "Blog / Berita"
+    folder: "src/content/blog" # Sesuaikan dengan folder konten Astro Anda
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Judul", name: "title", widget: "string" }
+      - { label: "Tanggal Publikasi", name: "pubDate", widget: "datetime" }
+      - { label: "Deskripsi Singkat", name: "description", widget: "string" }
+      - { label: "Gambar Utama", name: "heroImage", widget: "image", required: false }
+      - { label: "Isi Konten", name: "body", widget: "markdown" }
