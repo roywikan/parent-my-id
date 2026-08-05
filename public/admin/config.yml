@@ -21,7 +21,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Judul", name: "title", widget: "string" }
-      - { label: "Tanggal Publikasi", name: "pubDate", widget: "datetime" }
+      - { label: "Tanggal Publikasi", name: "date", widget: "datetime" }
       - { label: "Deskripsi Singkat", name: "description", widget: "string" }
       - { label: "Gambar Utama", name: "heroImage", widget: "image", required: false }
       - { label: "Isi Konten", name: "body", widget: "markdown" }
