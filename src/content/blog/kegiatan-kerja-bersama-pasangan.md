@@ -1,6 +1,6 @@
 ---
 title: Kegiatan Kerja Bersama Pasangan
-pubDate: 2026-08-05T22:04:00.000+07:00
+pubDate: 2026-08-05T23:38:00.000+07:00
 description: Sebuah kenangan manis tentang malam di mana hasrat dan ketangguhan
   menyatu dalam harmoni yang sempurna.
 heroImage: ""
