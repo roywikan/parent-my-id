@@ -1,9 +1,9 @@
 ---
 title: Kegiatan Kerja Bersama Pasangan
-date: "2026-08-05T23:34:00+07:00"
+date: 2026-08-05T23:34:00+07:00
 description: Sebuah kenangan manis tentang malam di mana hasrat dan ketangguhan
   menyatu dalam harmoni yang sempurna.
-heroImage: ""
+heroImage: /images/uploads/hearts.jpg
 ---
 Di bawah redup cahaya lampu yang menciptakan bayangan hangat di sudut ruangan, ketenangan malam seolah sengaja melambat untuk memberi ruang bagi dua jiwa yang siap menyatu. Kehadiran seorang pria maskulin yang percaya diri, tenang, dan penuh kendali memberikan rasa aman sekaligus getaran ketegangan yang mendebarkan. Setiap tatapan matanya memancarkan ketegasan yang tak perlu diucapkan, menarik sang wanita dewasa ke dalam pesona kehangatan yang tak mungkin ditolak. Di titik inilah, segalanya bermula dari rasa saling percaya dan kehendak murni untuk saling menyerahkan diri pada denyut hasrat yang membara.
 
