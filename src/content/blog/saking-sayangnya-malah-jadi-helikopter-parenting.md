@@ -24,6 +24,8 @@ Psikologi modern punya nama untuk fenomena ini: *Helicopter Parenting*. Sesuai m
 
 Jika kita telusuri hingga ke akarnya, perilaku ini jarang sekali berawal dari arogansi. Sebaliknya, ia lahir dari rahim kecemasan. Ketakutan mendalam dari orang tua yang merasa bahwa dunia kini terlalu kompetitif, dan jika mereka berkedip sedikit saja, anak mereka akan tertinggal.
 
+![Psikologi modern punya nama untuk fenomena ini: Helicopter Parenting. Sesuai metaforanya, ini adalah gaya pengasuhan di mana kita terus-menerus hovering atau terbang mengitari anak tanpa lelah. Kita bisa membedah karakteristik orang tua "helikopter" ini dalam beberapa pola.](/images/uploads/apa-helicopter-parenting.png)
+
 Menariknya, istilah ini bukanlah produk dari era media sosial. Sejarah mencatat kemunculan pertamanya pada tahun 1969 melalui buku *Between Parent & Teenager* karya Dr. Haim Ginott. Di sana, seorang remaja melontarkan keluhan yang ikonik: "Ibu mengawasi saya seperti helikopter."
 
 Konsep ini kemudian digali secara akademis pada era 90-an untuk balita. Namun, evolusi paling drastis terjadi pada tahun 2000-an. Apa pemicunya? Ponsel. Sosiolog dan psikolog kerap menjuluki ponsel pintar sebagai "tali pusat terpanjang di dunia". Teknologi membuat jarak fisik tak lagi berarti; orang tua tetap bisa menempel dan mengatur kehidupan anak-anak mereka yang sudah mahasiswa sekalipun. Baling-baling helikopter itu tak lagi dibatasi oleh dinding rumah.
@@ -49,9 +51,7 @@ Alih-alih menjadi helikopter yang bising, jadilah seperti mercusuar di tepi laut
 * Kita berdiri tegak, stabil, dan selalu terlihat dari kejauhan.
 * Kita memancarkan cahaya panduan, memberi peringatan akan karang berbahaya, tapi kita 
 
-  *tidak*
-
-   mengambil alih kemudi kapal.
+  *tidak* mengambil alih kemudi kapal. 
 * Kita membiarkan anak menyetir kapalnya sendiri, menerjang ombak dan badai, namun tetap bersiaga untuk memastikan kapalnya tidak karam.
 
 Sebagai pelengkap, kita juga bisa mulai memeluk konsep *Slow Parenting*. Kurangi memjejali anak dengan jadwal les dan kursus yang padat. Sesekali, biarkan mereka mengalami "kebosanan produktif". Karena di ruang kosong kebosanan itulah, kreativitas dan kemandirian sejati menemukan tanah yang subur untuk tumbuh.
