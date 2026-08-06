@@ -23,6 +23,10 @@ Menariknya, tren *co-parenting* saat ini semakin inovatif. Di ranah global, ada 
 
 Bagaimana dengan urusan komunikasi yang rawan memicu debat kusir? Teknologi mulai turun tangan. Sekarang bermunculan aplikasi khusus *co-parenting* (seperti *OurFamilyWizard* atau *AppClose*) yang dilengkapi "wasit" berupa AI (Kecerdasan Buatan). AI ini berfungsi sebagai *tone-checker* yang akan memberi peringatan jika chat Anda ke mantan mulai terdengar pasif-agresif. Tujuannya agar komunikasi tetap menganut prinsip BIFF (*Brief, Informative, Friendly, Firm*)—singkat, padat, ramah, dan tegas. Nggak perlu lagi chat panjang lebar pakai urat.
 
+![ dengan urusan komunikasi yang rawan memicu debat kusir? Teknologi mulai turun tangan. Sekarang bermunculan aplikasi khusus co-parenting (seperti OurFamilyWizard atau AppClose) yang dilengkapi "wasit" berupa AI (Kecerdasan Buatan). AI i](/images/uploads/co-parenting-mantan-pasangan-jadi-rekan-kerja-mental-anak.png "dilengkapi \"wasit\" berupa AI (Kecerdasan Buatan). ")
+
+
+
 **Tantangan "Lokalan" Indonesia: Hukum vs Tradisi**
 
 Di Indonesia, mempraktikkan pengasuhan bersama punya bumbu tantangan yang khas. Secara hukum, kita masih sering berbenturan dengan Pasal 105 Kompilasi Hukum Islam (KHI) yang menetapkan bahwa hak asuh anak di bawah 12 tahun (*Hadhanah*) secara otomatis jatuh ke tangan ibu. Aturan ini, meski niatnya melindungi, pada praktiknya sering memicu friksi bagi para ayah yang ingin punya peran pengasuhan setara (50/50).
